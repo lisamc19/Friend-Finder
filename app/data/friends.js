@@ -1,4 +1,4 @@
-var friends = [{
+var friendsArray = [{
   "name":"Ahmed",
   "photo":"http://img1.rnkr-static.com/list_img_v2/8814/1248814/full/30-and-famous-people-of-indian-descent-u1.jpg",
   "scores":[
@@ -142,4 +142,5 @@ var friends = [{
     ]
 }
 ]
-module.exports = friends
+
+module.exports = friendsArray;
